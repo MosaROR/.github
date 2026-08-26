@@ -6,9 +6,9 @@ Usually, qualitative studies and quantitative meta-research occupy separate cult
 
 ## Our contacts
 
-**Maurice Zeegers** from the Epidemiology Department brings a quantitative meta-research perspective, applying statistical methods to questions of research quality and integrity, including citation biases, review methodology, retraction practices, and responsible publishing standards.
+**Maurice Zeegers** from the Epidemiology department brings a quantitative meta-research perspective, applying statistical methods to questions of research quality and integrity, including citation biases, review methodology, retraction practices, and responsible publishing standards.
 
-**Bart Penders** from the STS department brings a sociological, science and technology studies perspective, working on issues of credibility, integrity, and trust in science.
+**Bart Penders** from the department of STS brings a sociological, science and technology studies perspective, working on issues of credibility, integrity, and trust in science.
 
 ## Focus areas
 
