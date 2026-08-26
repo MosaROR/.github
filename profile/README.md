@@ -1,4 +1,4 @@
-MosaRoR (Maastricht Research on Research) is a science studies center at Maastricht University (UM), built around the complementary research profiles of the departments of **Epidemiology** and **Science and Technology Studies (STS)**.
+MosaRoR (Maastricht Research on Research) is a science studies hub at Maastricht University (UM), built around the complementary research profiles of staff affiliated with the departments of **Epidemiology** and **Science and Technology Studies (STS)**.
 
 ## Our approach
 
