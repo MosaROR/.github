@@ -4,11 +4,11 @@ MosaRoR (Maastricht Research on Research) is a science studies center at Maastri
 
 Usually, qualitative studies and quantitative meta-research occupy separate cultures, buildings, and even disciplinary vocabularies. At UM, by contrast, these two perspectives sit close together: physically, institutionally, and culturally, giving researchers a place where they can move fluidly between qualitative and quantitative approaches to studying science.
 
-## Our departments
+## Our contacts
 
-The **Epidemiology** department brings a quantitative meta-research perspective, applying statistical methods to questions of research quality and integrity, including citation biases, review methodology, retraction practices, and responsible publishing standards.
+The **Maurice Zeegers** from the Epidemiology Department brings a quantitative meta-research perspective, applying statistical methods to questions of research quality and integrity, including citation biases, review methodology, retraction practices, and responsible publishing standards.
 
-The **STS** department brings a sociological, science and technology studies perspective, working on issues of credibility, integrity, and trust in science.
+The **Bart Penders** from the STS department brings a sociological, science and technology studies perspective, working on issues of credibility, integrity, and trust in science.
 
 ## Focus areas
 
