@@ -1,14 +1,14 @@
-MosaRoR (Maastricht Research on Research) is a science studies hub at Maastricht University (UM), built around the complementary research profiles of staff affiliated with the departments of **Epidemiology** and **Science and Technology Studies (STS)**.
+MosaRoR (Maastricht Research on Research) is a science studies hub at Maastricht University (UM) at the intersection of the **Epidemiology** and **Health, Ethics & Society (HES)** Departments, built around the complementarity of its staff’s research profiles in quantitative meta-research and qualitative Science and Technology Studies (STS).
 
 ## Our approach
 
-Usually, qualitative studies and quantitative meta-research occupy separate cultures, buildings, and even disciplinary vocabularies. At UM, by contrast, these two perspectives sit close together: physically, institutionally, and culturally, giving researchers a place where they can move fluidly between qualitative and quantitative approaches to studying science.
+Qualitative STS and quantitative meta-research usually occupy separate cultures, buildings, and even disciplinary vocabularies. At MosaRoR, by contrast, we strive to integrate both perspectives. Building on the already existing close physical, institutional, and cultural proximity of these fields within UM's Faculty of Health, Medicine, and Life Sciences (FHML), MosaRoR provides an environment where researchers can move fluidly between quantitative and quantitative approaches to studying science
 
-## Our contacts
+## Our contact
 
 **Maurice Zeegers** from the Epidemiology department brings a quantitative meta-research perspective, applying statistical methods to questions of research quality and integrity, including citation biases, review methodology, retraction practices, and responsible publishing standards.
 
-**Bart Penders** from the department of STS brings a sociological, science and technology studies perspective, working on issues of credibility, integrity, and trust in science.
+**Bart Penders** from the HES department brings a sociological, science and technology studies perspective, working on issues of credibility, integrity, and trust in science.
 
 ## Focus areas
 
