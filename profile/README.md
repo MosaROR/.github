@@ -20,8 +20,9 @@ Qualitative STS and quantitative meta-research usually occupy separate cultures,
 
 Our repositories are kept private, but here's an overview of what we're working on:
 
-- **SERCEA** — Strengthening Ethics and Responsible Conduct of Clinical Trials in East and Sub-Saharan Africa.
-- **Responsible Publishing** — our collaboration with the British Medical Journal (BMJ).
+- **SERCEA** — Strengthening Ethics and Responsible Conduct of Clinical Trials in East and Sub-Saharan Africa
+- **Responsible Publishing** — our collaboration with the British Medical Journal
+- **SPIROS** Standardized Protocol Items Recommendations for Observational Studies
 
 ---
 
