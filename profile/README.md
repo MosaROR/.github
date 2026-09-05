@@ -23,6 +23,7 @@ Our repositories are kept private, but here's an overview of what we're working 
 - **SERCEA** — Strengthening Ethics and Responsible Conduct of Clinical Trials in East and Sub-Saharan Africa
 - **Responsible Publishing** — our collaboration with the British Medical Journal
 - **SPIROS** - Standardized Protocol Items Recommendations for Observational Studies
+- **FAERS** - Research on FDA Adverse Event Reporting
 
 ---
 
