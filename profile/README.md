@@ -2,7 +2,7 @@ MosaRoR (Maastricht Research on Research) is a science studies hub at Maastricht
 
 ## Our approach
 
-Qualitative STS and quantitative meta-research usually occupy separate cultures, buildings, and even disciplinary vocabularies. At MosaRoR, by contrast, we strive to integrate both perspectives. Building on the already existing close physical, institutional, and cultural proximity of these fields within UM's Faculty of Health, Medicine, and Life Sciences (FHML), MosaRoR provides an environment where researchers can move fluidly between quantitative and quantitative approaches to studying science
+Qualitative STS and quantitative meta-research usually occupy separate cultures, buildings, and even disciplinary vocabularies. At MosaRoR, by contrast, we strive to integrate both perspectives. Building on the already existing close physical, institutional, and cultural proximity of these fields within UM's Faculty of Health, Medicine, and Life Sciences (FHML), MosaRoR provides an environment where researchers can move fluidly between quantitative and qualitative approaches to studying science
 
 ## Our contact
 
