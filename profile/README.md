@@ -16,9 +16,9 @@ Qualitative STS and quantitative meta-research usually occupy separate cultures,
 - Scientific Publishing 
 - Knowledge Development
 
-## Repositories
+## Code Repositories
 
-Our repositories are kept private, but here's an overview of what we're working on:
+Our repositories are kept private (until public release), but here's an overview of what we're working on:
 
 - **SERCEA** — Strengthening Ethics and Responsible Conduct of Clinical Trials in East and Sub-Saharan Africa
 - **Responsible Publishing** — our collaboration with the British Medical Journal
