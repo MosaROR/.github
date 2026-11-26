@@ -8,13 +8,16 @@ Qualitative STS and quantitative meta-research usually occupy separate cultures,
 
 **Maurice Zeegers** from the Epidemiology department brings a quantitative meta-research perspective, applying statistical methods to questions of research quality and integrity, including citation biases, review methodology, retraction practices, and responsible publishing standards.
 
-**Bart Penders** from the HES department brings a sociological, science and technology studies perspective, working on issues of credibility, integrity, and trust in science.
+**Bart Penders** (Associate Professor "Biomedicine & Society") from the HES department brings a sociological, science and technology studies perspective, working on issues of credibility, integrity, and trust in science.
 
 ## Focus areas
 
 - Trust in Science
 - Scientific Publishing 
 - Knowledge Development
+- Credibility in and of Science
+- Science Reform
+- Knowledge Labour
 
 ## Code Repositories
 
@@ -25,6 +28,14 @@ Our repositories are kept private (until public release), but here's an overview
 - **SPIROS** - Standardized Protocol Items Recommendations for Observational Studies
 - **Ethical approval timelines** for Randomized Clinical Trials during Public Health Emergencies
 - Maryland OCME restraint-death audit (OCME)
+
+### Projects led by Bart Penders
+
+- **Invisible knowledge work and the transformation and scaling of open science practices** (funded by OSNL)
+- **Good Science Multiple: Coexisting and Conflicting Operationalisations of Good Science** (funded by UM)
+- **Trustworthy AI in Science** — research and advisory work, see [SCIANCE](https://raise4science.eu/about/sciance/) (funded by AINed and the EU)
+- **Making up (un)healthy people. Unpacking the scientific engines of health inequalities** (funded by NWO)
+- **Developing a Responsible Research Community of Practice** (funded by the Wellcome Trust)
 
 ---
 
