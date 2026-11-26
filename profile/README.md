@@ -19,23 +19,20 @@ Qualitative STS and quantitative meta-research usually occupy separate cultures,
 - Science Reform
 - Knowledge Labour
 
-## Code Repositories
+## Projects
 
 Our repositories are kept private (until public release), but here's an overview of what we're working on:
 
-- **SERCEA** — Strengthening Ethics and Responsible Conduct of Clinical Trials in East and Sub-Saharan Africa
-- **Responsible Publishing** — our collaboration with the British Medical Journal
-- **SPIROS** - Standardized Protocol Items Recommendations for Observational Studies
-- **Ethical approval timelines** for Randomized Clinical Trials during Public Health Emergencies
-- Maryland OCME restraint-death audit (OCME)
-
-### Projects led by Bart Penders
-
-- **Invisible knowledge work and the transformation and scaling of open science practices** (funded by OSNL)
-- **Good Science Multiple: Coexisting and Conflicting Operationalisations of Good Science** (funded by UM)
-- **Trustworthy AI in Science** — research and advisory work, see [SCIANCE](https://raise4science.eu/about/sciance/) (funded by AINed and the EU)
-- **Making up (un)healthy people. Unpacking the scientific engines of health inequalities** (funded by NWO)
 - **Developing a Responsible Research Community of Practice** (funded by the Wellcome Trust)
+- **Ethical approval timelines** for Randomized Clinical Trials during Public Health Emergencies
+- **Good Science Multiple: Coexisting and Conflicting Operationalisations of Good Science** (funded by UM)
+- **Invisible knowledge work and the transformation and scaling of open science practices** (funded by OSNL)
+- **Making up (un)healthy people. Unpacking the scientific engines of health inequalities** (funded by NWO)
+- Maryland OCME restraint-death audit (OCME)
+- **Responsible Publishing** — our collaboration with the British Medical Journal
+- **SERCEA** — Strengthening Ethics and Responsible Conduct of Clinical Trials in East and Sub-Saharan Africa
+- **SPIROS** - Standardized Protocol Items Recommendations for Observational Studies
+- **Trustworthy AI in Science** — research and advisory work, see [SCIANCE](https://raise4science.eu/about/sciance/) (funded by AINed and the EU)
 
 ---
 
