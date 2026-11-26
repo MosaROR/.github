@@ -8,7 +8,7 @@ Qualitative STS and quantitative meta-research usually occupy separate cultures,
 
 **Maurice Zeegers** from the Epidemiology department brings a quantitative meta-research perspective, applying statistical methods to questions of research quality and integrity, including citation biases, review methodology, retraction practices, and responsible publishing standards.
 
-**Bart Penders** (Associate Professor "Biomedicine & Society") from the HES department brings a sociological, science and technology studies perspective, working on issues of credibility, integrity, and trust in science.
+**Bart Penders** (Associate Professor "Biomedicine & Society) from the HES department brings a sociological, science and technology studies perspective, working on issues of credibility, integrity, and trust in science.
 
 ## Focus areas
 
@@ -29,10 +29,10 @@ Our repositories are kept private (until public release), but here's an overview
 - **Invisible knowledge work and the transformation and scaling of open science practices** (funded by OSNL)
 - **Making up (un)healthy people. Unpacking the scientific engines of health inequalities** (funded by NWO)
 - Maryland OCME restraint-death audit (OCME)
-- **Responsible Publishing** — our collaboration with the British Medical Journal
-- **SERCEA** — Strengthening Ethics and Responsible Conduct of Clinical Trials in East and Sub-Saharan Africa
-- **SPIROS** - Standardized Protocol Items Recommendations for Observational Studies
-- **Trustworthy AI in Science** — research and advisory work, see [SCIANCE](https://raise4science.eu/about/sciance/) (funded by AINed and the EU)
+- **Responsible Publishing** our collaboration with the British Medical Journal
+- **SERCEA** Strengthening Ethics and Responsible Conduct of Clinical Trials in East and Sub-Saharan Africa
+- **SPIROS** Standardized Protocol Items Recommendations for Observational Studies
+- **Trustworthy AI in Science** research and advisory work, see [SCIANCE](https://raise4science.eu/about/sciance/) (funded by AINed and the EU)
 
 ---
 
